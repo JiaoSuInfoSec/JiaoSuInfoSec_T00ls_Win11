@@ -18,7 +18,11 @@ python39 sqlmap.y
 python27 sqlmap.y
 java -jar xx.jar
 ```
-本系统开发时得初衷：`更快 更好 更简洁 更方便 更贴近`
+本系统开发时的初衷：`更快 更好 更简洁 更方便 更贴近`
+
+作者在使用一些渗透系统的时候，发现工具过于重复，累赘，很多东西甚至是不需要的工具，因此和一些小伙伴共同设计了此系统。
+
+添加`JiaoSuInfo_Sec`客服微信，进入交流群，提交新工具以及Bug
 
 包含工具请查看下图工具矩阵：[工具矩阵](https://github.com/JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11/blob/main/README.md#%E5%B7%A5%E5%85%B7%E7%9F%A9%E9%98%B5)
 
@@ -26,7 +30,8 @@ java -jar xx.jar
 ### :world_map:更新
 
 - JiaoSuInfoSec_T00ls_Win11_24722_v1.1.RT_hw.Beta 
-
+  - 压缩后大小：18.0 GB (19,411,074,617 字节)
+  - 解压后大小：30.6 GB (32,879,339,557 字节)
   ```
   密探信息收集
   git RCE漏洞 CVE-2024-32002
