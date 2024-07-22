@@ -64,6 +64,9 @@ java -jar xx.jar
 ### 工具矩阵
 <details>
 <summary><b>:closed_lock_with_key:工具矩阵</b></summary>
+  
+  ![image](工具矩阵.png)
+  
 </details>
   
 ### 感谢
@@ -74,6 +77,3 @@ java -jar xx.jar
 
 由衷的感谢系统中收录的工具作者，被此系统中收录的作者可以联系客服加入到内部交流群中，如果拒绝收录，联系客服，我们将在所有版本中，删除您的工具，并表达歉意，谢谢。
 
-![image](工具矩阵.png)
-
-</details>
