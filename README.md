@@ -35,17 +35,17 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta
 
 
 ### :world_map:更新
-- 此次更新为大更新，建议使用最新的版本，此次版本是经过hw之后，很多红队师傅使用之后，采用红队师傅的一些建议更新的最新系统
+- 此次更新为大更新，建议使用最新的版本，此次版本是经过hw之后，很多红队师傅使用之后，采用红队师傅的一些建议更新的系统
 - JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Betax
-  - 压缩后大小：18.0 GB 
-  - 解压后大小：30.6 GB
-  - MD5：BE0C77C526E4573B109BF92E434085A9
-  - SHA1: EE83493C35C7B648DCE0AB3EF7404B3A42B4E3A9
+  - 压缩后大小：20.8 GB 
+  - 解压后大小：35.6 GB
+  - MD5: 45BFC1F78CE4314FD67FA87D030E5E12
+  - SHA1: 13FFA855872635695CE6984A663CAB616CF72DE1
 - JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta
-  - 压缩后大小：18.0 GB 
-  - 解压后大小：30.6 GB
-  - MD5：BE0C77C526E4573B109BF92E434085A9
-  - SHA1: EE83493C35C7B648DCE0AB3EF7404B3A42B4E3A9
+  - 压缩后大小：20.4 GB 
+  - 解压后大小：34.3 GB
+  - MD5: 4B7B5DDF8FA8BDC8C8450BEABD605FA7
+  - SHA1: B99B2A3840431718BD61AC176CE6098F35976413
  
 
 JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta 为带有KALI版本
@@ -72,7 +72,7 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta 不带KALI版本
 17. Burp Suite插件BurpAPIFinder
 18. NETworkManager网络检测综合工具
 19. jd-gui 反编译工具
-20. team-ide 综合工具
+20. team-ide 综合工具，支撑连接国内数据库达梦等
 21. vagent 内存马工具
 22. Sniffnet 网络实时状态工具
 23. WinSCP ftp连接工具
