@@ -155,3 +155,6 @@ JiaoSuInfoSec_T00ls_240922_PM_C.adi\JiaoSuInfoSec_T00ls_240922_PM_D.adi  为物�
 
 ### 客服微信
 ![image](客服.jpg)
+
+### 赞助【如果觉得系统不错，请赞助一下吧，赞助之后，提供加入截图ID号，联系客服进内部交流群】
+赞助.jpg
