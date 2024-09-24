@@ -29,9 +29,9 @@ kali/kali  # kali 用户名/密码
 
 目前最新版本：
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta
+JiaoSuInfoSec_T00ls_Win11_240922_v2.0
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta
+
 
 
 
