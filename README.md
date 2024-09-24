@@ -34,23 +34,34 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta
 JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta
 
 
+
 ### :world_map:更新
+------
 - 此次更新为大更新，建议使用最新的版本，此次版本是经过hw之后，很多红队师傅使用之后，采用红队师傅的一些建议更新的系统
-- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Betax
+- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta.zip
   - 压缩后大小：20.8 GB 
   - 解压后大小：35.6 GB
   - MD5: 45BFC1F78CE4314FD67FA87D030E5E12
   - SHA1: 13FFA855872635695CE6984A663CAB616CF72DE1
-- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta
+- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta.zip
   - 压缩后大小：20.4 GB 
   - 解压后大小：34.3 GB
   - MD5: 4B7B5DDF8FA8BDC8C8450BEABD605FA7
   - SHA1: B99B2A3840431718BD61AC176CE6098F35976413
- 
+- JiaoSuInfoSec_T00ls_240922_PM_C.adi
+  - 大小：8.61 GB 
+  - MD5: 4C755D2EB601F8903AFCB200818A4116
+  - SHA1: 72897BF0D63FBF563B9FA8EC441941E79E7F27B0
+- JiaoSuInfoSec_T00ls_240922_PM_D.adi
+  - 大小：14.4 GB
+  - MD5: FA806D840D6D35A5828825FE264CBD04
+  - SHA1: AA3784CFDC986B41CD2ABEAF71033105399DEA42
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta 为带有KALI版本
+JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta.zip 为带有KALI版本
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta 不带KALI版本
+JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta.zip 不带KALI版本
+
+JiaoSuInfoSec_T00ls_240922_PM_C.adi\JiaoSuInfoSec_T00ls_240922_PM_D.adi  为物理机版本【此版本内测中】
 ```
 ## 更新内容：
 1. 用友利用工具
@@ -92,7 +103,7 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta 不带KALI版本
 10. 细化鼠标使用细节 
 11. KALI版本修改源为中科大
 ```
-
+------
 - JiaoSuInfoSec_T00ls_Win11_24722_v1.1.RT_hw.Beta 
   - 压缩后大小：18.0 GB 
   - 解压后大小：30.6 GB
