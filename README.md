@@ -100,6 +100,8 @@ JiaoSuInfoSec_T00ls_240922_PM_C.adi\JiaoSuInfoSec_T00ls_240922_PM_D.adi  为物�
 3. NEO4J_HOME环境变量将信息收集改为Discovery
 ```
 ### :beginner:系统截图
+![image](https://github.com/user-attachments/assets/43f2ff47-759c-47cd-84df-0f7e017d71a6)
+
 
 
 
