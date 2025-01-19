@@ -15,10 +15,11 @@
 ------
 📢 环境提示：
 ```shell
-python39 sqlmap.y
-python27 sqlmap.y
-java -jar xx.jar
-kali/kali  # kali 用户名/密码
+java -jar  xxx.jar
+python39 xx.py
+python27 xxx.py
+pwsh [powershell7] 
+KALI：kali/kali  # kali 用户名/密码
 ```
 本系统开发时的初衷：`更快 更好 更简洁 更方便 更贴近`
 
@@ -30,7 +31,7 @@ kali/kali  # kali 用户名/密码
 
 目前最新版本：
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0
+JiaoSuInfoSec_T00ls_Win11_250119_OSv3.0
 
 
 
@@ -38,15 +39,12 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0
 
 ### :world_map:更新
 ------
-- 此次更新为大更新，建议使用最新的版本，此次版本是经过hw之后，很多红队师傅使用之后，采用红队师傅的一些建议更新的系统
-- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta.zip
-  - 压缩后大小：20.8 GB 
-  - 解压后大小：35.6 GB
+- JiaoSuInfoSec_T00ls_Win11_250119_OSv3.0_KALI_Beta.zip 【KALI版本】
+  - 压缩后大小：23.1 GB 
   - MD5: 45BFC1F78CE4314FD67FA87D030E5E12
   - SHA1: 13FFA855872635695CE6984A663CAB616CF72DE1
-- JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta.zip
-  - 压缩后大小：20.4 GB 
-  - 解压后大小：34.3 GB
+- JiaoSuInfoSec_T00ls_Win11_250119_OSv3.0_RT_Beta.zip 
+  - 压缩后大小：23.3 GB 
   - MD5: 4B7B5DDF8FA8BDC8C8450BEABD605FA7
   - SHA1: B99B2A3840431718BD61AC176CE6098F35976413
 - JiaoSuInfoSec_T00ls_240922_PM_C.adi
@@ -58,83 +56,52 @@ JiaoSuInfoSec_T00ls_Win11_240922_v2.0
   - MD5: FA806D840D6D35A5828825FE264CBD04
   - SHA1: AA3784CFDC986B41CD2ABEAF71033105399DEA42
 
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_KALI_Beta.zip 为带有KALI版本
-
-JiaoSuInfoSec_T00ls_Win11_240922_v2.0_RT_Beta.zip 不带KALI版本
-
 JiaoSuInfoSec_T00ls_240922_PM_C.adi\JiaoSuInfoSec_T00ls_240922_PM_D.adi  为物理机版本【此版本内测中】
 ```
 ## 更新内容：
-1. 用友利用工具
-2. heapdump利用工具
-3. jeecg漏洞利用工具
-4. Confluence漏洞利用工具
-5. RuoYi漏洞利用工具
-6. FastJson漏洞利用工具
-7. jboss漏洞利用工具
-8. ActiveMQ漏洞利用工具
-9. 社工生成工具
-10. MDUT加强版
-11. reqable抓包工具
-12. Behinder_v3.0.11抓包
-13. clash-verge-rev代理工具
-14. dbeaver数据库连接工具
-15. suo5-gui-windows
+1. searchall
+2. zombie
+3. spray
+4. EquationToolsGUI
+5. Struts2VulsScanTools
+6. eBSploit
+7. PowerShell7
+8. Process Lasso
+9. Slack
+10. PostHikvision
+11. Godzilla-Suo5MemShell
+12. OBS Studio
+13. npscrack
+14. nps-auth-bypass
+15. Kubectl
 16. openvpn
-17. Burp Suite插件BurpAPIFinder
-18. NETworkManager网络检测综合工具
-19. jd-gui 反编译工具
-20. team-ide 综合工具，支撑连接国内数据库达梦等
-21. vagent 内存马工具
-22. Sniffnet 网络实时状态工具
-23. WinSCP ftp连接工具
-24. SpringBootVul-GUI漏洞利用工具
-25.新增加KALI版本
+17. Hikvision-
+18. NacosExploit
+19. JenkinsExploit-GUI
+20. API-Explorer
+21. xxl-job-FLM
+22. web-chains
+23. DockerApiRCE
+24. TomcatScanPro
+25. SBSCAN
+26. jdwp-codeifier
+27. DecryptExample
+28. MDUT-Extend-1.2.0
+29. DockerAPITool
+30. fscan  v2.0.0-build1
+31. gogo v2.13.6
+32. Clink
+33. jMG v1.0.9
+34. Vivaldi
 
-## 修复BUG
-1. naabu使用报错，更新至2.3.1
-2. 修复NetExec运行报错问题更新至v1.2.0
-3. 冰蝎4.1t00ls启动是失败
-4. MDUT bug  driver路径不正确修复
-5. 添加社工生成网站
-6. observer_ward更新至最新
-7. 添加typora
-8. FscanParser  更新fscan最新版本
-9. gogo更新至最新版本
-10. 细化鼠标使用细节 
-11. KALI版本修改源为中科大
-```
-------
-- JiaoSuInfoSec_T00ls_Win11_24722_v1.1.RT_hw.Beta 
-  - 压缩后大小：18.0 GB 
-  - 解压后大小：30.6 GB
-  - MD5：BE0C77C526E4573B109BF92E434085A9
-  - SHA1: EE83493C35C7B648DCE0AB3EF7404B3A42B4E3A9
-  ```
-  密探信息收集
-  git RCE漏洞 CVE-2024-32002
-  heapdump_tool
-  MemoryAnalyzer
-  修改heapdump分类问题
-  添加百度网盘
-  禁止快捷工具检测更新
-  burpsuite_pro_v2024.4.1 修复字体Bug
-  geoservers-CVE-2024-36401
-  nuclei更新模板库至v9.9.1
-  nuclei更新3.3.0
-  ```
+## 修复
+1. 修改项目名字Neo-reGeorg
+2. 升级ssh软件道最新版本
+3. NEO4J_HOME环境变量将信息收集改为Discovery
 
 ### :beginner:系统截图
 
-![image](微信图片_20240922205301.png)
 
-![image](微信图片_20240922205255.png)
-
-![image](微信图片_20240922205258.png)
-
-![image](微信图片_20240922205243.png)
-
-![image](微信图片_20240922205252.png)
 
 
 
