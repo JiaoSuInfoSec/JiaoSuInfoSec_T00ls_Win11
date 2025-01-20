@@ -52,7 +52,6 @@ JiaoSuInfoSec_T00ls_Win11_250119_OSv3.0
   - MD5: 610F66818F83D10D01955F76DD42644D
   - SHA1: 6F35A35BA3FFBA9DE43005D37347EBBAD21DB001
 
-```
 ## 更新内容：
 1. searchall
 2. zombie
@@ -63,37 +62,35 @@ JiaoSuInfoSec_T00ls_Win11_250119_OSv3.0
 7. PowerShell7
 8. Process Lasso
 9. Slack
-10. PostHikvision
-11. Godzilla-Suo5MemShell
-12. OBS Studio
-13. npscrack
-14. nps-auth-bypass
-15. Kubectl
-16. openvpn
-17. Hikvision-
-18. NacosExploit
-19. JenkinsExploit-GUI
-20. API-Explorer
-21. xxl-job-FLM
-22. web-chains
-23. DockerApiRCE
-24. TomcatScanPro
-25. SBSCAN
-26. jdwp-codeifier
-27. DecryptExample
-28. MDUT-Extend-1.2.0
-29. DockerAPITool
-30. fscan  v2.0.0-build1
-31. gogo v2.13.6
-32. Clink
-33. jMG v1.0.9
-34. Vivaldi
+10. OBS Studio
+11. npscrack
+12. nps-auth-bypass
+13. Kubectl
+14. openvpn
+15. Hikvision-
+16. NacosExploit
+17. JenkinsExploit-GUI
+18. API-Explorer
+19. xxl-job-FLM
+20. web-chains
+21. DockerApiRCE
+22. TomcatScanPro
+23. SBSCAN
+24. jdwp-codeifier
+25. DecryptExample
+26. MDUT-Extend-1.2.0
+27. DockerAPITool
+28. fscan  v2.0.0-build1
+29. gogo v2.13.6
+30. Clink
+31. jMG v1.0.9
+32. Vivaldi
 
 ## 修复
 1. 修改项目名字Neo-reGeorg
 2. 升级ssh软件道最新版本
-3. NEO4J_HOME环境变量将信息收集改为Discovery
-```
+3. NEO4J_HOME环境变量将信息收集改为Discovery #3 
+
 ### :beginner:系统截图
 ![image](https://github.com/user-attachments/assets/43f2ff47-759c-47cd-84df-0f7e017d71a6)
 
